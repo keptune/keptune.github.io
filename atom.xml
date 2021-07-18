@@ -6,7 +6,7 @@
   <link href="https://keptune.github.io/atom.xml" rel="self"/>
   
   <link href="https://keptune.github.io/"/>
-  <updated>2021-07-18T10:12:28.593Z</updated>
+  <updated>2021-07-18T15:14:56.668Z</updated>
   <id>https://keptune.github.io/</id>
   
   <author>
@@ -17,43 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hexo+Github搭建个人网站</title>
-    <link href="https://keptune.github.io/2021/07/18/hello/"/>
-    <id>https://keptune.github.io/2021/07/18/hello/</id>
-    <published>2021-07-17T16:00:00.000Z</published>
-    <updated>2021-07-18T10:12:28.593Z</updated>
-    
-    <content type="html"><![CDATA[<p>$\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;$\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="1 -  网站相关 -  搭建教程 test test test" scheme="https://keptune.github.io/categories/1-%E7%BD%91%E7%AB%99%E7%9B%B8%E5%85%B3-%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B-test-test-test/"/>
-    
-    
-    <category term="2 - Hexo - 网站搭建" scheme="https://keptune.github.io/tags/2-Hexo-%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
+    <title>理发时的小心绪</title>
     <link href="https://keptune.github.io/2021/07/17/hello-world/"/>
     <id>https://keptune.github.io/2021/07/17/hello-world/</id>
     <published>2021-07-16T16:11:32.540Z</published>
-    <updated>2021-07-16T16:11:32.540Z</updated>
+    <updated>2021-07-18T15:14:56.668Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p> 头发太长去理发，前面排了四五个人，等了好久。<br>  突然想到我的数学老师，想到高考前败血病时给我批假条，有点感动，考到这里，又觉得有点对不起她。又想到物理老师找我谈话，说很相信我，结果……我想要摆脱过去的一切，却总是摆脱不掉，或许过去的我已经成为现在的我的一部分。<br>还是好好学习吧，等到硕士去了一个好去处，我一定要回去向他们道谢，特别是我最愧疚的李老师。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt; 头发太长去理发，前面排了四五个人，等了好久。&lt;br&gt;  突然想到我的数学老师，想到高考前败血病时给我批假条，有点感动，考到这里，又觉得有点对不起她。又想到物理老师找我谈话，说很相信我，结果……我想要摆脱过去的一切，却总是摆脱不掉，或许过去的我已经成为现在的我的一部分。&lt;b</summary>
       
     
     
