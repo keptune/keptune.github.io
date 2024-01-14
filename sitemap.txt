@@ -1,3 +1,4 @@
-http://example.com/2024/01/12/%E5%8F%91%E5%B8%83%E7%AC%AC%E4%B8%80%E7%AF%87%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/
-http://example.com/2024/01/12/hello-world/
+http://example.com/2024/01/14/%E5%81%87%E6%9C%9F%E9%9A%8F%E7%AC%94/
+http://example.com/2024/01/12/%E5%81%87%E5%89%8D%E9%9A%8F%E7%AC%94/
+http://example.com/2024/01/12/%E7%94%B1%E6%9D%A5/
 http://example.com/
